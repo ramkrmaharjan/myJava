@@ -3,5 +3,3 @@ Finance Team
 # Charles
 # Lisa
 # John
-# Stacy
-# Alexandar
